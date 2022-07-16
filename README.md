@@ -4,7 +4,7 @@
 
 
 - <b>Azure Sentinel (SIEM)</b>
-  - [Sentinel (SIEM)](https://github.com?mouaderrafik/#)
+  - [Sentinel (SIEM)](https://github.com/mouaderrafik/AzureSentinelLab-SIEM-)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -13,7 +13,7 @@
 
 
 <h2>🧾 Certifications:</h2>
-
+- <b>CompTIA Security+ (In progress)</b>
 <h2> 🤳 Connect with me:</h2>
 
 
