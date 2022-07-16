@@ -12,7 +12,7 @@
 <h2>👨‍💻 Network Projects</h2>
   
 - <b>Cisco Industrial Training:</b>
-  - [(Industrial Practical Training)](https://github.com/mouaderrafik/Industrial_Practical_Training)
+  - [Industrial Practical Training](https://github.com/mouaderrafik/Industrial_Practical_Training)
 
 <h2>🧾 Certifications:</h2>
 - <b>CompTIA Security+ (In progress)</b>
