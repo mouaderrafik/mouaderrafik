@@ -3,6 +3,14 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 
+- <b>Azure Sentinel (SIEM)</b>
+  - [Sentinel (SIEM)](https://github.com?mouaderrafik/#)
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+
+<h2>👨‍💻 Network Projects:</h2>
+
 
 <h2>🧾 Certifications:</h2>
 
