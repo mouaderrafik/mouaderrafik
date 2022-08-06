@@ -9,7 +9,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C#</b>
-  - [The Employee and Payable Case Study](https://github.com/mouaderrafik/)
+  - [The Employee and Payable Case Study](https://github.com/mouaderrafik/employeeandpayable)
 
 <h2>👨‍💻 Network Projects</h2>
   
